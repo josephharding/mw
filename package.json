@@ -1,0 +1,11 @@
+{
+  "name": "missionwizard",
+  "version": "0.0.2",
+  "description": "search suggestions",
+  "main": "index.js",
+  "author": "Joe Harding",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
